@@ -1,4 +1,4 @@
-import config
+from . import config
 
 BASE_DIR = config.BASE_DIR_PATH
 
